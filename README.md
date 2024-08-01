@@ -4,7 +4,7 @@
 
  Ce module implémente une traduction française du système créé par [Man Moon](https://github.com/moo-man) pour motoriser le jeu [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) de [Cubicle 7 Games](https://cubicle7games.com) sur [Foundry VTT](https://foundryvtt.com/).
 
- Cette traduction ne concerne que le système en lui-même et non du contenu des compendiums.
+ Cette traduction ne concerne que le système en lui-même et non le contenu des compendiums.
  L'impacte sera donc visible principalement sur les termes génériques des fiches des acteurs (Agents, PNJs et Véhicules), ainsi que sur le résultat des jets de dés dans le tchat.
 
 ## Glossaire (EN / FR)
