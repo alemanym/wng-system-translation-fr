@@ -1,6 +1,6 @@
-# [FR] Foundry VTT - Traduction du Système Wrath & Glory
+# [FR] FoundryVTT - Traduction du système Wrath & Glory
 
-## Présentation
+## Présentation du Module
 
  Ce module implémente une traduction française du système créé par Man Moon pour motoriser le jeu "Warhammer 40k: Wrath & Glory" sur Foundry VTT.
 
@@ -11,11 +11,19 @@
 
  - `token` : `token` est conservé
 
-# [EN] Foundry VTT - Wrath & Glory System Translation
+## Dépendences
 
-## Presentation
+ - Système officiel W&G pour Foundry VTT créé by Man Moon : https://foundryvtt.com/packages/wrath-and-glory/
+
+# [EN] FoundryVTT - Wrath & Glory System Translation
+
+## Module Presentation
 
  This module implements a French translation of the Foundry VTT system created by Man Moon to power the game "Warhammer 40k: Wrath & Glory".
 
  This translation only concerns the system itself and not the content of the compendiums.
  The impact will therefore be visible mainly on the generic terms used in the game, which can be seen on the actor sheets (Agents, Threats and Vehicles) and on the results of dice rolls in the chat.
+
+## Dependencies
+
+ - W&G official System created by Man Moon for Foundry VTT : https://foundryvtt.com/packages/wrath-and-glory/
