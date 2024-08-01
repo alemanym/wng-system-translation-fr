@@ -1,6 +1,14 @@
 {
   "id": "wng-system-translation-fr",
   "title": "Translation: Wrath & Glory - System - Traduction FR",
+  "description": "This module implements a French translation of the system created by Man Moon for playing Warhammer 40k: Wrath & Glory.",
+  "authors": [
+    {
+      "name": "Blacklisted Jack",
+      "discord": "blacklistedjack",
+      "flags": {}
+    }
+  ],
   "version": "1.0.0",
   "compatibility": {
     "minimum": "11",
@@ -20,14 +28,7 @@
     {
       "lang": "fr",
       "name": "Français",
-      "path": "fr.json",
-      "flags": {}
-    }
-  ],
-  "authors": [
-    {
-      "name": "Blacklisted Jack",
-      "discord": "blacklistedjack",
+      "path": "lang/fr.json",
       "flags": {}
     }
   ],
