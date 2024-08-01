@@ -1,4 +1,4 @@
-# FR - Traduction française du système Wrath & Glory
+# FR - Traduction du système Wrath & Glory pour Foundry VTT
 
 ## Présentation
 
@@ -11,7 +11,7 @@
 
  - `token` : `token` est conservé
 
-# EN - Wrath & Glory System French translation
+# EN - Wrath & Glory System translation for Foundry VTT
 
 ## Presentation
 
