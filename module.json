@@ -1,0 +1,34 @@
+{
+  "id": "wng-system-translation-fr",
+  "title": "Translation: Wrath & Glory - System - Traduction FR",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "systems": [
+      {
+        "id": "wrath-and-glory",
+        "type": "system",
+        "compatibility": {}
+      }
+    ]
+  },
+  "coreTranslation": true,
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "Français",
+      "path": "fr.json",
+      "flags": {}
+    }
+  ],
+  "authors": [
+    {
+      "name": "Blacklisted Jack",
+      "discord": "Blacklisted Jack",
+      "flags": {}
+    }
+  ]
+}
