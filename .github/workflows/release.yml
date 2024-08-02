@@ -26,9 +26,9 @@ jobs:
         uses: dawidd6/action-get-tag@v1.1.0
 
       - name: Create ZIP
-        run: |
-          cd build
-          zip -r ../${{steps.moduleID.outputs.prop}}.zip *
+        working-directory: ./
+        run: 
+          zip -r ./${{steps.moduleID.outputs.prop}}.zip ./*
           
       - name: Set Download Link
         uses: jossef/action-set-json-field@v2
