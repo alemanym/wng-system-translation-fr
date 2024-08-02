@@ -1,6 +1,16 @@
 # [FR] FoundryVTT - Traduction du système Wrath & Glory
 
-## Présentation du Module
+## DISCLAIMER/LICENCE
+
+This module depends on the [Warhammer 40k: Wrath & Glory](https://foundryvtt.com/packages/wrath-and-glory/) system from [Man Moon](https://github.com/moo-man) and require the official C7 'Wrath & Glory - Core Module' module from C7. The present works is under the intellectual property of Khaos Project and C7 only.
+
+This module is the French translation of the Wrath &G system from Moo Man for Foundry VTT.
+
+This translation only concerns the system itself and not the content of the compendiums.
+The impact will therefore be visible mainly on the generic terms used in actor sheets (Agents, Threats and Vehicles), as well as on the results of dice rolls in chat.
+
+
+## [FR] Présentation du Module
 
  Ce module traduit en français les clés (termes) exposés par le système créé par [Man Moon](https://github.com/moo-man) pour motoriser le jeu [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) sur [Foundry VTT](https://foundryvtt.com/).
 
@@ -23,16 +33,3 @@ une fois votre monde lancé, dans paramètres => gestionnaire de modules
 ## Dépendences
 
  - Système officiel W&G pour Foundry VTT créé par Man Moon : https://foundryvtt.com/packages/wrath-and-glory/
-
-# [EN] FoundryVTT - Wrath & Glory System Translation
-
-## Module Presentation
-
- This module translates into French the keys (terms) set out by the system created by [Man Moon](https://github.com/moo-man) to power the [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) on [Foundry VTT](https://foundryvtt.com/).
-
- This translation only concerns the system itself and not the content of the compendiums.
- The impact will therefore be visible mainly on the generic terms used in actor sheets (Agents, Threats and Vehicles), as well as on the results of dice rolls in chat.
-
-## Dependencies
-
- - W&G official System created by Man Moon for Foundry VTT : https://foundryvtt.com/packages/wrath-and-glory/
