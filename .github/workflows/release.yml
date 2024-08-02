@@ -51,7 +51,6 @@ jobs:
           name: ${{ github.event.release.name }}
           draft: ${{ github.event.release.unpublished }}
           prerelease: ${{ github.event.release.prerelease }}
-          token: ${{ secrets.GITHUB_TOKEN }}
           tag: ${{ github.event.release.tag_name }}
           body: ${{ github.event.release.body }}
           artifacts: "./module.json, ./${{steps.moduleID.outputs.prop}}.zip"
