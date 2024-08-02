@@ -7,6 +7,11 @@
  Cette traduction ne concerne que le système en lui-même et non le contenu des compendiums.
  L'impacte sera donc visible principalement sur les termes génériques des fiches des acteurs (Agents, PNJs et Véhicules), ainsi que sur le résultat des jets de dés dans le tchat.
 
+## Installation
+
+ - Dans l'interface d'accueil de Foudry VTT, dans la partie "Modules", cliquer sur "Installer un Module".
+ - En bas de la fenêtre d'installation de module, renseigner l'adresse suivante dans "URL de Manifeste" : https://github.com/alemanym/wng-system-translation-fr/releases/download/lastest/module.json
+
 ## Glossaire (EN / FR)
 
  - `token` : `token` est conservé
@@ -23,6 +28,10 @@
 
  This translation only concerns the system itself and not the content of the compendiums.
  The impact will therefore be visible mainly on the generic terms used in actor sheets (Agents, Threats and Vehicles), as well as on the results of dice rolls in chat.
+
+## Installation
+
+ - In the Foundry VTT module installation interface, use the following manifest URL : https://github.com/alemanym/wng-system-translation-fr/releases/download/lastest/module.json
 
 ## Dependencies
 
