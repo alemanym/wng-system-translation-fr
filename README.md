@@ -2,15 +2,21 @@
 
 ## Présentation du Module
 
- Ce module implémente une traduction française du système créé par [Man Moon](https://github.com/moo-man) pour motoriser le jeu [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) de [Cubicle 7 Games](https://cubicle7games.com) sur [Foundry VTT](https://foundryvtt.com/).
+ Ce module traduit en français les clés (termes) exposés par le système créé par [Man Moon](https://github.com/moo-man) pour motoriser le jeu [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) sur [Foundry VTT](https://foundryvtt.com/).
 
  Cette traduction ne concerne que le système en lui-même et non le contenu des compendiums.
  L'impacte sera donc visible principalement sur les termes génériques des fiches des acteurs (Agents, PNJs et Véhicules), ainsi que sur le résultat des jets de dés dans le tchat.
 
 ## Installation
 
- - Dans l'interface d'accueil de Foudry VTT, dans la partie "Modules", cliquer sur "Installer un Module".
- - En bas de la fenêtre d'installation de module, renseigner l'adresse suivante dans "URL de Manifeste" : https://github.com/alemanym/wng-system-translation-fr/releases/download/lastest/module.json
+via le menu des modules à l'accueil de Foundry :
+ - installer le module Translation: French [Core]
+
+via le menu configuration à l'accueil de Foundry :
+ - Langue par défaut : choisir Français - FR - Traduction du core
+
+une fois votre monde lancé, dans paramètres => gestionnaire de modules
+ - cocher "Translation: Wrath & Glory - System - Traduction FR" et sauvegarder.
 
 ## Glossaire (EN / FR)
 
@@ -24,14 +30,10 @@
 
 ## Module Presentation
 
- This module implements a French translation of the [Foundry VTT](https://foundryvtt.com/) system created by [Man Moon](https://github.com/moo-man) for playing [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) producted by [Cubicle 7 Games](https://cubicle7games.com).
+ This module translates into French the keys (terms) set out by the system created by [Man Moon](https://github.com/moo-man) to power the [Warhammer 40k: Wrath & Glory](https://cubicle7games.com/warhammer-40k-wrath-and-glory-rpgs) on [Foundry VTT](https://foundryvtt.com/).
 
  This translation only concerns the system itself and not the content of the compendiums.
  The impact will therefore be visible mainly on the generic terms used in actor sheets (Agents, Threats and Vehicles), as well as on the results of dice rolls in chat.
-
-## Installation
-
- - In the Foundry VTT module installation interface, use the following manifest URL : https://github.com/alemanym/wng-system-translation-fr/releases/download/lastest/module.json
 
 ## Dependencies
 
