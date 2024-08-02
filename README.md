@@ -7,6 +7,8 @@
  Cette traduction ne concerne que le système en lui-même et non le contenu des compendiums.
  L'impacte sera donc visible principalement sur les termes génériques des fiches des acteurs (Agents, PNJs et Véhicules), ainsi que sur le résultat des jets de dés dans le tchat.
 
+ N.B: Quelques termes seront toujours en anglais dans le tchat, mais c'est qu'a priori ils n'ont pas été exposés à une possibilité de traduction.
+
 ## Installation
 
 via le menu des modules à l'accueil de Foundry :
@@ -17,10 +19,6 @@ via le menu configuration à l'accueil de Foundry :
 
 une fois votre monde lancé, dans paramètres => gestionnaire de modules
  - cocher "Translation: Wrath & Glory - System - Traduction FR" et sauvegarder.
-
-## Glossaire (EN / FR)
-
- - `token` : `token` est conservé
 
 ## Dépendences
 
